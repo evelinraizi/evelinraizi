@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é @evelinraizi
-- :+1: Meu email de contato é: evelin.raizi@escola.pr.gov.br 
+- 👋 Olá, meu nome é **@evelinraizi**
+- :+1: Meu email de contato é [email](evelin.raizi@escola.pr.gov.br) 
 - 🌱 Estou interessado em aprender a programar novas linguagens.
 - 💞️ Estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
